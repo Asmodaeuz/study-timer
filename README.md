@@ -1,2 +1,8 @@
-# study-timer
-Study timer for learn tracking
+# Study Timer
+### An online application that helps keeping track pf ypur schedule listing and timing your topics.
+
+Built with: 
+- TypeScript
+- ReactJS
+- HTML5
+- CSS3
